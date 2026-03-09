@@ -12,7 +12,7 @@ Playful “No” button movement
 Sound effects for interactions
 Celebration GIF on “Yes”
 Soft, randomized floating heart particles
-No libraries — pure HTML, CSS, and JS
+No libraries - pure HTML, CSS, and JS
 
 🎯 Why this project
 Built for fun, creativity, and learning - perfect for:
