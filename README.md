@@ -1,4 +1,4 @@
-❤️ Be My Valentine - Interactive Web 
+❤️ Be My Valentine - Interactive Webpage
 
 A playful Valentine’s Day web project built with HTML, CSS, and JavaScript, I made for my brother's fiancé.
 This interactive page asks the classic question, “Will you be my Valentine?” with a fun twist:
